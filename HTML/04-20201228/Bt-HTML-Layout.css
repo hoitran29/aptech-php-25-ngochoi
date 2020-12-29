@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dau {
+    background-color: gray;
+    color: white;
+    height: 130px;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;    
+}
+.than {
+    background-color: yellow;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+}
+.than-mot {
+    background-color: gainsboro;
+    height: 300px;
+    width: 20%;
+}
+.than-hai {
+    background-color: whitesmoke;
+    height:300px;
+    width: 80%;
+    
+   
+}
+.chan {
+    background-color: gray; 
+    height: 100px;
+    color: white;
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+}

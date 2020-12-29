@@ -1,0 +1,101 @@
+
+.head-cha {
+    background-color: orange;
+    width: 70%;
+    height:60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+.head-con1 {
+    background-color: blue;
+    border: 1px solid white;
+    width: 60%;
+    height: 50%;
+    margin: 10px;
+}
+.head-con2 {
+    background-color: blue;
+    border: 1px solid white;
+    width: 40%;
+    height: 50%;
+    margin: 10px;
+}
+.than-cha {
+    background-color:grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    height:150px;
+    margin: 10px;
+}
+.than-con1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 50%;
+    height: 90%;
+}
+.than-con1-1 {
+    background-color: blue;
+    border: 1px solid white;
+    height: 40px;
+    margin: 10px;
+}
+.than-con1-2 {
+    background-color: blue;
+    border: 1px solid white;
+    height: 80px;
+    margin: 10px; 
+}
+.than-con2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 60%;
+    height: 90%;
+}
+.than-con2-1 {
+    background-color: blue;
+    border: 1px solid white;
+    width: 250px;
+    margin: 10px;
+}
+.than-con2-2 {
+    background-color: blue;
+    border: 1px solid white;
+    width: 250px;
+    margin: 10px;
+}
+.chan-cha {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blue;
+    width: 70%;
+    height: 50px;
+    margin: 10px;
+}
+.chan-cha1 {
+    border: 1px solid white;
+    width: 30%;
+    height: 1%;
+    margin: 10px; 
+}
+.chan-cha2 {
+    border: 1px solid white;
+    width: 30%;
+    height: 1%;
+    margin: 10px; 
+}
+.chan-cha3 {
+    border: 1px solid white;
+    width: 30%;
+    height: 1%;
+    margin: 10px;
+}
