@@ -1,0 +1,14 @@
+.btn-success {
+    color:#28a745;
+    background-color: transparent;
+    border-color: #28a745;
+}
+
+.form-inline {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -ms-flex-align: right;
+    align-items: right;
+}
