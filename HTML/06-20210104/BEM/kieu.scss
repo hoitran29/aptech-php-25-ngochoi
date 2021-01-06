@@ -1,0 +1,16 @@
+
+.Cha {
+    &__Con-Mot {
+        &--Width {
+            width: 100px;
+        }
+        &--Background-Color {
+            background-color: green;
+        }
+    }
+    &__Con-Hai {
+        &--Width {
+            width: 200px;
+        }
+    }
+}

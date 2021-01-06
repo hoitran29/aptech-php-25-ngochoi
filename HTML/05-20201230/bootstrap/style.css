@@ -12,3 +12,9 @@
     -ms-flex-align: right;
     align-items: right;
 }
+.height {
+    height: 100px;
+} 
+.width {
+    width: 45%;
+}
