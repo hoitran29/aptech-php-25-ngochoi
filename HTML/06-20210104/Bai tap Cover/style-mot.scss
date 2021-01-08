@@ -1,0 +1,21 @@
+.Header { 
+    &__Content {
+        &--Height {
+            height: 20%;
+        }
+    }
+}
+.Main {
+    &__Content-main {
+        &--Height {
+            height: 60%;
+        }
+    }
+}
+.Footer {
+    &__Content-footer {
+        &--Height {
+            height: 20%;
+        }
+    }
+}

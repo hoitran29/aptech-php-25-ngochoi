@@ -1,0 +1,35 @@
+.Content {
+  height: 100%;
+}
+
+.Content__Div-mot--Size {
+  width: 70px;
+  height: 70px;
+}
+
+.Content__Div-mot--Background-color {
+  background-color: purple;
+}
+
+.Content__Div-mot--Text-size {
+  font-size: 60px;
+}
+
+.Content__Div-mot--Border-radius {
+  border-radius: 10px;
+}
+
+.Content__Input-mot--Size {
+  width: 300px;
+  height: 50px;
+}
+
+.Content__Input-hai--Size {
+  width: 300px;
+  height: 50px;
+}
+
+.Content__Btn--Size {
+  width: 300px;
+}
+/*# sourceMappingURL=style-mot.css.map */
