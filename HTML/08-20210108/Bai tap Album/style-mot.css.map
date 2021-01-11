@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAES,AAAD,sBAAO,CAAC;EACJ,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACf;;AAEI,AAAD,mCAAO,CAAC;EACJ,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,GAAG;CACd;;AAGA,AAAD,mCAAO,CAAC;EACJ,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,GAAG;CACd;;AAGA,AAAD,mCAAO,CAAC;EACJ,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,GAAG;CACd",
+    "sources": [
+        "style-mot.scss"
+    ],
+    "names": [],
+    "file": "style-mot.css"
+}
